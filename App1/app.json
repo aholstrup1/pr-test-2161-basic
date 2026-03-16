@@ -1,0 +1,20 @@
+{
+  "id": "7885034b-c2b9-4091-ad55-3ff5b78a29bc",
+  "name": "App1",
+  "publisher": "TestPublisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "Test app for workspace compilation",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "25.0.0.0",
+  "application": "25.0.0.0",
+  "idRanges": [{"from": 50100, "to": 50149}],
+  "runtime": "14.0",
+  "target": "Cloud"
+}

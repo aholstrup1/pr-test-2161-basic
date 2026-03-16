@@ -1,0 +1,27 @@
+{
+  "id": "e38c69fb-0532-4b34-8a38-5323621eb454",
+  "name": "App1 Tests",
+  "publisher": "TestPublisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "Tests for App1",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "7885034b-c2b9-4091-ad55-3ff5b78a29bc",
+      "name": "App1",
+      "publisher": "TestPublisher",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "25.0.0.0",
+  "application": "25.0.0.0",
+  "idRanges": [{"from": 50200, "to": 50249}],
+  "runtime": "14.0",
+  "target": "Cloud"
+}
